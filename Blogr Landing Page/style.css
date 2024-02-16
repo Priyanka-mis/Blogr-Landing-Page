@@ -1,0 +1,310 @@
+.container {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height:740rem;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: (207, 13%, 34%);
+  border: 2px solid black;
+}
+
+.main {
+  background-color:  hsl(356, 100%, 66%);
+  height: 90vh;
+  width: 100%;
+  background-image: url("blogr-landing-page-main/blogr-landing-page-main/images/bg-pattern-intro-desktop.svg ");
+  background-repeat: no-repeat;
+  background-image: cover;
+  /* background-size: 100%; */
+  background-position:0%;
+  background-size:6000px ;
+  background-position: center;
+  border-bottom-left-radius: 550px;
+ 
+
+
+}
+
+.this1 {
+    position: relative;
+  display: flex;
+  padding: 30px;
+  margin-left: 200px;
+}
+
+
+ul {
+  
+  margin-left: 154px;
+  font-size: 60px;
+  margin-top: 180px;
+  color: white;
+}
+
+.this1 h2 {
+    position: absolute;
+  font-size: 150px;
+  margin-left: 200px;
+  color: white;
+ 
+}
+
+.login {
+ margin-left: 45%;
+  margin-top: 120px;
+  font-size: 80px;
+  height: 120px;
+  width: 350px;
+  border-radius: 100px;
+  color: hsl(356, 100%, 66%);
+  background-color: white;
+  font-size: 50px;
+  border: none;
+
+  
+}
+.signUp {
+  font-size: 50px;
+  height: 120px;
+  width: 350px;
+  margin-top: 120px;
+  margin-left: 2%;
+  border-radius: 100px;
+  color:hsl(356, 100%, 66%);
+  background-color: white;
+  border: none;
+}
+
+.images {
+  margin-left: 400px;
+  margin-top: 200px;
+  position: relative;
+}
+
+.mg1 {
+  position: absolute;
+  height: 20px;
+  margin-left: 420px;
+  height: 30px;
+
+}
+
+.mg2 {
+  height: 20px;
+  position: absolute;
+  margin-left: 860px;
+  height: 30px;
+  
+}
+
+.mg3 {
+  position: absolute;
+  height: 20px;
+  margin-left: 1240px;
+  height: 30px;
+ 
+}
+
+
+.this2{
+
+    text-align: center;
+    font-size: bold;
+    margin-top: 300px;
+}
+
+
+.this2 h1{
+    font-size: 150px;
+    color: white;
+}
+
+.this2 p{
+    font-size: 60px;
+    color: white;
+    
+}
+
+.this2 button{
+    font-size: 50px;
+    height: 120px;
+    width: 380px;
+    border-radius: 100px;
+    text-align: center;
+    margin-top: 100px;
+    color: hsl(356, 100%, 66%);
+    background-color: white;
+    border: none;
+
+}
+
+.learn{
+    margin-left: 50px;
+}
+
+.main1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 120vh;
+     width: 100%;
+     margin-top: -70px;
+     background-image: url("blogr-landing-page-main/blogr-landing-page-main/images/illustration-editor-desktop.svg");
+     background-repeat: no-repeat;
+     background-position: left 130% bottom 50% ;
+     background-size:50%;
+}
+
+
+.h2{
+  color: hsl(208, 49%, 24%);
+    font-size: 100px;
+    padding-top: 380px; 
+    height: 200px;
+    width: 30%;
+    margin-left: 38%
+}
+
+.this3{
+    font-size: 50px; 
+    height: 900px;
+    width: 1500px;
+    margin-left: 600px;
+} 
+
+.this3 h4{
+    font-size: 80px;
+    padding-top: 100px;
+    color: hsl(208, 49%, 24%);
+}
+
+.this3 p{
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+
+
+.this4{
+    font-size: 50px; 
+    height: 600px;
+    width: 1500px;
+    margin-left: 600px;
+} 
+
+.this4 h4{
+    font-size: 80px;
+    padding-top: -10px;
+    color: hsl(208, 49%, 24%);
+
+}
+
+.this4 p{
+    font-size: 50px;
+}
+
+
+.this5{
+    height: 80vh;
+    width: 100%;
+    margin-top:530px;
+    margin-bottom: 100%;
+    color: hsl(0, 0%, 100%);
+    background-color:hsl(237, 17%, 21%);
+    background-image: url("blogr-landing-page-main/blogr-landing-page-main/images/bg-pattern-circles.svg");
+    border-top-right-radius: 550px;
+    background-repeat: no-repeat;
+    /* background-image: cover; */
+    background-size: 3500px;
+    background-position: left -20%  top 130% ;
+    Border-bottom-left-radius:550px;
+
+
+}
+
+#phone-img{
+  height: 120%;
+  margin-top: -5%;
+  margin-left: 5%;
+
+  
+}
+
+.this5 h1{
+  margin-top:-30%;
+  margin-left: 55%;
+  height: 10%;
+  width: 30%;
+  font-size: 5rem;
+}
+
+.this5 p{
+  margin-left: 55%;
+  font-size: 4rem;
+  margin-right: 10% ; 
+
+}
+
+.main2{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 220rem;
+  width: 100%;
+  /* margin-top: -10px; */
+  margin-top:39%;
+  border: 1px solid white;
+  background-image: url("blogr-landing-page-main/blogr-landing-page-main/images/illustration-laptop-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position:right 250% bottom 15rem;
+}
+
+.this6{
+  font-size: 50px; 
+  height: 800px;
+  width: 1700px;
+  margin-left: 60%;
+  margin-top: -10%;
+  padding-left: 50px;
+} 
+
+.this6 h4{
+  font-size: 80px;
+  margin-top: 80%;
+  color: hsl(208, 49%, 24%);
+}
+
+.this6 p{
+  font-size: 50px;
+}
+.this7{
+  font-size: 50px; 
+  height: 860px;
+  width: 1700px;
+  margin-left: 60%;
+  margin-top: -10;
+  padding-left: 50px;
+} 
+
+.this7 h4{
+  font-size: 80px;
+  padding-top: 100px;
+  color:hsl(208, 49%, 24%) ;
+}
+
+.this7 p{
+  font-size: 50px;
+  margin-bottom: 100px;
+}
+
+
+.footer{
+  display: flex;
+  justify-content: space-around;
+  height: 65rem;
+  background-color:  hsl(240, 10%, 16%);
+  font-size: 50px;
+  color: hsl(240, 2%, 79%);
+  padding-top: 5%;
+   border-top-right-radius: 550px;
+}
+
+
+.footer h1, h3{
+  color: white;
+}
